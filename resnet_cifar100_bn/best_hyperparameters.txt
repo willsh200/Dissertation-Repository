@@ -1,0 +1,4 @@
+The optimal hyperparameters are:
+- Learning rate: 0.0002396608052009138
+- Weight decay: 100
+- Epochs: 0.001
